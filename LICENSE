@@ -1,0 +1,115 @@
+Vinyl Software License
+Version 1.0
+
+Copyright (c) 2026 claustrophobDev. All rights reserved.
+
+Vinyl is source-available software, not open source. The source code is
+published so that anyone can read it, audit it for security and learn from
+it. It is not published for reuse.
+
+
+0. DEFINITIONS
+
+   "Software" means Vinyl: its source code, compiled builds, visual design
+   and accompanying materials, excluding Third-Party Components.
+
+   "Official Build" means a build of the Software distributed by the
+   copyright holder.
+
+   "Third-Party Components" means software of other authors distributed
+   with the Software, listed in THIRD-PARTY-NOTICES.md.
+
+   "You" means the person or organization exercising the rights granted
+   below.
+
+
+1. PERMISSION
+
+   You may download, install and use Official Builds of the Software free
+   of charge for personal, non-commercial use.
+
+   You may make copies of an unmodified Official Build for your own use on
+   your own devices.
+
+   Any other use, including use within an organization or as part of a
+   commercial service, requires prior written permission from the copyright
+   holder.
+
+
+2. SOURCE CODE
+
+   The source code is provided for viewing, security auditing and
+   educational reference only.
+
+   Unless you have received prior written permission from the copyright
+   holder, you may not:
+
+   - modify the source code;
+   - create or distribute derivative works;
+   - redistribute the Software or modified builds of the Software;
+   - incorporate the source code into another project;
+   - sell, sublicense, rent or otherwise commercially exploit the Software;
+   - use the Software to create or provide a competing software product.
+
+   Quoting short fragments of the source code in articles, reviews,
+   discussions and security reports is permitted with attribution.
+
+
+3. VISUAL DESIGN
+
+   The user interface, layout, visual language, illustrations, animations,
+   icons, graphics and other original visual assets of the Software are
+   copyrighted works. They are not licensed for reuse, reproduction,
+   adaptation or incorporation into other products, whether or not the
+   source code is used.
+
+
+4. BRANDING
+
+   The Vinyl name, logo and associated branding are not licensed for use in
+   derivative or third-party products.
+
+   No permission is granted to imply endorsement by, affiliation with, or
+   authorship by the Vinyl project or claustrophobDev.
+
+
+5. THIRD-PARTY COMPONENTS
+
+   Third-Party Components distributed with the Software remain subject to
+   their own licenses, listed in THIRD-PARTY-NOTICES.md. Nothing in this
+   license changes, restricts or extends the rights granted by those
+   licenses.
+
+
+6. TERMINATION
+
+   The rights granted in section 1 end automatically if you breach any term
+   of this license. Upon termination you must stop using the Software and
+   delete your copies of it.
+
+
+7. NO WARRANTY
+
+   The Software is provided "as is", without warranty of any kind, express
+   or implied, to the maximum extent permitted by applicable law. You use
+   it at your own risk.
+
+
+8. LIMITATION OF LIABILITY
+
+   To the maximum extent permitted by applicable law, the copyright holder
+   is not liable for any damages arising out of the use of or inability to
+   use the Software, including loss of data, loss of profits or business
+   interruption.
+
+
+9. GENERAL
+
+   The copyright holder is under no obligation to provide updates, support
+   or maintenance.
+
+   If any provision of this license is held unenforceable, the remaining
+   provisions stay in force.
+
+   Permission requests and licensing questions: open an issue in the
+   project repository at https://github.com/claustrophobDev/Vinyl-Desktop
